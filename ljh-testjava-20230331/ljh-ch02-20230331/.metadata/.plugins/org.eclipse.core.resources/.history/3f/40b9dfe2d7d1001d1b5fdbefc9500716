@@ -1,0 +1,14 @@
+package exer;
+
+import java.util.Scanner;
+
+public class Score {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("점수입력");
+		
+		Scanner scanner = new Scanner()
+	}
+
+}
